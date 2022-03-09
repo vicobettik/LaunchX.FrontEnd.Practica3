@@ -1,0 +1,43 @@
+.bold{
+    font-weight: bolder;
+    font-size: large;
+}
+
+.vac{
+    font-size: x-large;
+}
+
+.links{
+    margin-right: 100px;
+}
+
+.links_negros{
+    margin-right: 60px;
+}
+
+.menu{
+    height: 150px;
+}
+
+.hoax{
+    text-shadow: 2px 2px;
+}
+
+.doctor{
+    background-color: #2770dd;
+    text-align: center;
+}
+
+.titulo{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #1f3e72;
+}
+
+.parrafo{
+    width: 350px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ababab;
+    text-align: left !important;
+}
