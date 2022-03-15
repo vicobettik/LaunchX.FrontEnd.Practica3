@@ -34,10 +34,80 @@
     color: #1f3e72;
 }
 
+.titulo2{
+    font-weight: bolder;
+    font-size: 40px;
+    color: #1f3e72;
+}
+
 .parrafo{
-    width: 350px;
+    width: 300px;
     font-size: 18px;
     font-weight: bold;
     color: #ababab;
     text-align: left !important;
 }
+
+.parrafo2{
+    width: 500px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ababab;
+    text-align: left !important;
+}
+
+.parrafo3{
+    width: 600px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ababab;
+    text-align: left !important;
+}
+
+ul.noDeco {
+    list-style-type: none;
+}
+
+.schedule{
+    margin-top: 50px;
+}
+
+.labs{
+    width: 100%;
+}
+
+.tarjetas{
+    color:#1f3e72;
+    font-size: 50px;
+}
+
+.tarjetaTitulo{
+    color:#1f3e72;
+    font-weight: bold;
+}
+
+.tarjetaTexto{
+    color: #ababab;
+    font-weight: bold;
+}
+
+.card{
+    border: 5px solid #fbfbff !important;
+}
+
+.foot{
+    background-color: #eef3ff;
+}
+
+.accordion{
+    width: 70%;
+}
+
+.f50{
+    font-size: 50px;
+}
+
+.f25{
+    font-size: 25px;
+}
+
